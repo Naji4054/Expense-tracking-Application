@@ -42,7 +42,7 @@ This repository contains the source code for an Expense Management System (EMS) 
 ## Installation
 1. Clone the repository:
    git clone https://github.com/your-username/Expense-Management-System.git
-2. Apply the initial migration:bash
+2. Apply the initial migration:
    dotnet ef add migration initialCreate
 3. Update the database:
    dotnet ef database update
