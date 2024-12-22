@@ -1,4 +1,4 @@
-# Expense Management System
+# Expense tracking application
 
 This repository contains the source code for an Expense Management System (EMS) developed using the **ASP.NET MVC** framework. The system aims to streamline expense tracking, approval workflows, and reporting, providing users with an intuitive and efficient platform.
 
