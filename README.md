@@ -30,7 +30,7 @@ This repository contains the source code for an Expense Management System (EMS) 
 ![Image 01](project_images/01.PNG)
 ![Image 02](project_images/02.PNG)
 ![Image 03](project_images/03.PNG)
-![Image 04](project_images/4.PNG)
+![Image 04](project_images/04.PNG)
 
 ### Prerequisites:
 - Visual Studio 2022 or later
