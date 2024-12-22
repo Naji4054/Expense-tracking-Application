@@ -25,13 +25,12 @@ This repository contains the source code for an Expense Management System (EMS) 
 - **Database**: Microsoft SQL Server
 - **ORM**: Entity Framework
 
-## project images
-![Dashboard](https://raw.githubusercontent.com/Naji4054/Expense-Management-System/main/Dashboard.png)
-![New Category](https://raw.githubusercontent.com/Naji4054/Expense-Management-System/main/New%20Category.png)
-![Transaction](https://raw.githubusercontent.com/Naji4054/Expense-Management-System/main/Transaction.png)
-![New Transaction](https://raw.githubusercontent.com/Naji4054/Expense-Management-System/main/New%20Transaction.png)
+### Project Images
 
-
+![Image 01](project_images/01.PNG)
+![Image 02](project_images/02.PNG)
+![Image 03](project_images/03.PNG)
+![Image 04](project_images/4.PNG)
 
 ### Prerequisites:
 - Visual Studio 2022 or later
